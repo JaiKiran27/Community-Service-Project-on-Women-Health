@@ -1,0 +1,181 @@
+S.no,Name,Age,Employee/not,3Meals a day,Breakfast daily,Milk/Day,Leafy Vegetables,Proteins,Fiber,fruits,Types of Fruits,Exercise,No.of Days,Duration,Water Intake,6to8 hrs Sleep,Menopausal problems,Diabetes,BP,Thyroid
+1,M.Aruna Kumari,42,No,Yes,No,No,No,Yes,No,Yes,"Banana,Sapota",No,,,3.5L,Yes,Yes,No,Yes,Yes
+2,S.Bharathi,39,No,Yes,Yes,Yes,No,Yes,Yes,Yes,"Watermelon,Grapes",No,,,3.5L,Yes,No,No,No,Yes
+3,C.Sumathi,36,Yes,Yes,Yes,No,No,Yes,No,No,,No,,,3.5L,Yes,No,No,No,No
+4,B.Madhavi,40,No,Yes,Yes,No,Yes,Yes,Yes,Yes,"Banana,Watermelon",Yes,4,30mins,3.5L,Yes,No,No,No,Yes
+5,I.Padmavathi,43,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Mosambi,Watermelon",Yes,5,45mins,3.5L,Yes,No,No,Yes,Yes
+6,P.Narayanamma,48,No,Yes,Yes,No,No,Yes,No,Yes,"Papaya,Apple",No,,,2.5L,Yes,Yes,No,No,No
+7,I.Amrutha,23,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,"Apple,Banana",Yes,4,45mins,3.5L,Yes,Yes,No,No,Yes
+8,P.Vasavika,23,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,"Apple,Banana",No,,,3.5L,Yes,No,Yes,Yes,Yes
+9,G.Ramasubamma,60,No,Yes,Yes,No,Yes,Yes,Yes,Yes,"Banana,Guava",No,,,3.5L,Yes,No,No,Yes,No
+10,M.Sai Lakshmi,20,No,Yes,Yes,No,No,Yes,Yes,No,,No,,,3.5L,Yes,No,No,Yes,Yes
+11,P.Madhavi,43,No,Yes,Yes,No,No,Yes,No,Yes,"Apple,Banana",No,,,3.5L,Yes,Yes,Yes,Yes,Yes
+12,B.Sri Vidhya,21,No,Yes,Yes,Yes,Yes,Yes,No,Yes,"Apple,Banana",Yes,7,60mins,3L,Yes,No,No,No,No
+13,B.Pavithra,19,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Papaya,Apple",No,,,3.5L,Yes,No,No,No,No
+14,B.Venkata Lakshmi,42,No,Yes,Yes,Yes,Yes,Yes,No,No,,No,,,3.5L,Yes,No,No,No,No
+15,E.Hima Bindu,38,Yes,Yes,No,No,Yes,No,No,No,,Yes,4,30mins,2L,No,No,Yes,Yes,No
+16,R.Vidyavathi,54,Yes,No,Yes,No,Yes,Yes,No,No,,No,,,2L,Yes,No,Yes,Yes,Yes
+17,P.Sanjana,24,No,No,Yes,Yes,Yes,No,Yes,Yes,"Apple,Banana",No,,,1.5L,Yes,No,Yes,No,No
+18,T.Priya,28,Yes,Yes,No,No,Yes,No,Yes,No,,Yes,4,35mins,3L,Yes,No,Yes,Yes,No
+19,K.Rizwana,35,Yes,Yes,No,Yes,No,Yes,No,No,,Yes,3,60mins,3L,Yes,No,Yes,Yes,No
+20,Sk.Shabeena,34,No,No,Yes,No,No,Yes,No,Yes,Banana,No,,,1.5L,Yes,Yes,No,Yes,No
+21,P.Rajeshwari,57,No,No,Yes,No,Yes,Yes,No,Yes,"Apple,Banana",No,,,2L,Yes,No,Yes,Yes,No
+22,R.Samyuktha,29,Yes,Yes,No,Yes,No,No,Yes,No,,Yes,4,45mins,3L,Yes,No,No,Yes,No
+23,K.Aaradhya,24,Yes,Yes,No,Yes,No,Yes,No,No,,No,,,2L,Yes,No,No,Yes,Yes
+24,T.Vachana,28,Yes,No,Yes,No,Yes,No,No,Yes,Banana,No,,,2L,Yes,No,Yes,No,Yes
+25,T.Sulochana,35,Yes,No,Yes,No,Yes,No,No,Yes,"Apple,Banana",No,,,2L,No,Yes,Yes,No,No
+26,K.Naguramma,41,No,Yes,Yes,No,Yes,No,Yes,No,,No,,,2L,Yes,No,Yes,No,Yes
+27,K.Roshamma,57,No,No,Yes,No,Yes,No,No,Yes,Banana,No,,,1.5L,Yes,No,Yes,No,Yes
+28,D.Seshamma,43,Yes,Yes,No,No,Yes,No,Yes,Yes,"Apple,Banana",No,,,3.5L,Yes,No,No,Yes,No
+29,E.Narasamma,61,No,No,Yes,No,Yes,No,No,Yes,Banana,No,,,3.5L,Yes,No,No,No,Yes
+30,M.Rukmini,40,Yes,No,Yes,No,Yes,Yes,No,No,,No,,,3L,No,Yes,No,Yes,No
+31,Architha,21,no,yes,yes,yes,yes,no,yes,yes,"apple,guava",yes,4,45min,2.5L,Yes,no,no,no,yes
+32,Sai,25,yes,no,yes,yes,yes,no,no,yes,NA,yes,3,30min,3L,Yes,no,no,no,no
+33,ratnam,21,no,yes,yes,no,yes,yes,yes,yes,NA,yes,5,25min,2L,Yes,no,no,no,no
+34,siri,19,no,yes,yes,no,yes,no,yes,yes,"pomegrante,apple",no,NA,NA,1.5L,Yes,no,no,yes,no
+35,Sita,24,no,yes,no,no,yes,no,yes,no,"Banana,apple",yes,4,25min,3L,Yes,no,no,no,no
+36,aswini,22,yes,yes,yes,yes,no,yes,yes,yes,"apple,guava",no,NA,NA,2L,Yes,yes,yes,no,no
+37,suraka,23,no,yes,yes,yes,yes,yes,yes,yes,"apple,guava",no,NA,NA,1.5L,Yes,no,no,no,no
+38,bhavani,28,yes,no,yes,no,no,no,no,yes,"orange, banana",no,NA,NA,2.5L,Yes,no,no,no,no
+39,laskhmi,56,no,yes,yes,yes,no,yes,yes,no,NA,no,NA,NA,1.5L,no,no,no,no,no
+40,devi ,45,yes,yes,yes,yes,yes,yes,yes,no,"apple,guava",no,NA,NA,2.5L,Yes,no,no,no,no
+41,nagamani,45,no,yes,yes,yes,no,yes,yes,yes,"Banana,apple",no,NA,NA,2.5L,no,no,no,no,yes
+42,vasmitha,25,yes,yes,yes,yes,yes,yes,yes,no,NA,no,NA,NA,1.5L,Yes,no,no,no,no
+43,bhargavi,29,no,yes,no,yes,no,yes,yes,no,"orange, banana",yes,4,40Min,2.5L,Yes,yes,yes,no,no
+44,pinky,21,yes,yes,no,no,no,no,yes,yes,"Banana,apple",no,NA,NA,3.5L,Yes,yes,yes,no,no
+45,durga,28,no,no,yes,yes,yes,yes,no,no,NA,yes,2,30min,2.5L,Yes,no,no,no,no
+46,rani,26,no,yes,yes,no,yes,no,yes,yes,NA,no,NA,NA,1.5L,Yes,no,no,no,no
+47,swapana,27,no,yes,yes,yes,no,yes,yes,yes,NA,no,NA,NA,2L,Yes,no,no,no,yes
+48,indu,25,no,yes,no,no,yes,no,yes,yes,NA,no,NA,NA,3L,Yes,no,no,yes,yes
+49,pallavi,56,no,no,no,yes,no,yes,no,yes,"Banana,apple",no,NA,NA,2L,Yes,no,no,no,no
+50,rupa,24,no,yes,yes,no,yes,no,yes,yes,NA,no,NA,NA,3L,Yes,no,no,no,no
+51,vidya,32,no,yes,yes,no,no,yes,yes,yes,"apple,guava",no,NA,NA,3.5L,no,no,no,no,no
+52,mithra,45,no,yes,yes,no,no,no,yes,no,NA,no,NA,NA,2L,Yes,no,no,no,no
+53,shivani,28,no,yes,no,no,yes,no,yes,no,"apple,guava",no,NA,NA,1.5L,Yes,no,no,no,no
+54,pranavi,41,yes,yes,yes,no,no,yes,yes,yes,"papaya,apple",yes,3,35min,3.5L,Yes,no,no,yes,no
+55,nithya,25,no,yes,yes,yes,yes,yes,yes,yes,NA,no,NA,NA,2L,no,no,no,yes,no
+56,madhavi,24,yes,no,yes,no,yes,yes,no,yes,"pomegrante,apple",no,NA,NA,3.5L,no,yes,yes,yes,no
+57,archana,26,no,yes,yes,no,yes,yes,yes,yes,"apple,guava",no,NA,NA,1.5L,Yes,no,no,yes,no
+58,bhavya,45,yes,yes,yes,yes,no,no,yes,yes,"Banana,apple",yes,3,45min,3.5L,Yes,no,no,yes,no
+59,sravani,24,yes,yes,no,yes,yes,no,yes,no,"orange, banana",no,NA,NA,2.5L,Yes,yes,yes,yes,no
+60,mounika,24,no,yes,yes,no,yes,yes,yes,yes,"Banana,apple",no,NA,NA,3L,Yes,yes,yes,yes,no
+61,Ram Kamal,42,yes,Yes,yes,No,No,Yes,No,Yes,"Banana,Sapota,oranges",yes,4,60mins,4.5L,Yes,Yes,No,No,No
+62,P.Mohan Traun,39,No,Yes,Yes,Yes,No,Yes,Yes,Yes,"Watermelon,Grapes,apples",No,,, 4.5L, no, yes,Yes,No,Yes
+63,A.Sumathi,45,Yes,Yes,No,No, Yes,Yes,No,Yes,Apples,No,,,3.5L,Yes,No,Yes,No,No
+64, H.Mounika Sri,23,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,"Banana,Watermelon",Yes,4,30mins,3.5L,Yes,No,No,Yes,Yes
+65, K.Padhu,43,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Mosambi,Watermelon",Yes,5,45mins,3.5L,Yes,No,No,No,Yes
+66, K.Ramulamma,48,No,Yes,Yes,No,No,Yes,No,Yes,Papaya,No,,,2.5L,Yes,Yes,No,Yes,No
+67,K.Amrutha rane,23,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,"Apple,Banana,mango",Yes,4,45mins,3.5L,Yes,Yes,No,No,Yes
+68, Ch.Mallika,23,Yes,Yes,Yes,Yes, No,Yes,No,Yes,"Apple,Banana,grapes", Yes,7,30mins,4.5L,Yes,No,Yes,No,No
+69, H.Ramapandu,60,No,No, No,No,Yes,Yes,Yes,Yes,Banana,No,,,3.5L,Yes,No,No,Yes,No
+70, M.Sai Chaitanya,20,No,No,Yes,No,No,Yes,Yes,No,,No,,,3.5L,Yes,No,No,No,Yes
+71,P.Madhavi,43,No,Yes,Yes,No,No,Yes,No,Yes,Apple,No,,,3.5L,Yes,Yes,Yes,Yes,Yes
+72,S. Vidhya Kumari,21,No,Yes,Yes,Yes,Yes,Yes,No,Yes,"Apple,Banana",Yes,7,60mins,3L,Yes,No,No,No,No
+73, P.Prathiba,19,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Papaya,No,,,3.5L,Yes,No,No,No,No
+74, A.Venkataratnam,42,No,Yes,Yes,Yes,Yes,Yes,No,No,,No,,,3.5L,Yes,No,Yes,No,No
+75,CH.Hima Bindu,38,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Apples,Grapes,Mosambi",Yes,4,30mins,2L,No,No,Yes,Yes,No
+76, L.prameela,54,Yes,No,Yes,No,No,Yes,No,No,,No,,,2L,Yes,No,No,No,Yes
+77,P.Sandhya,24,No,No,Yes,Yes,Yes,No,Yes,Yes,"Apple,Banana",No,,,1.5L,Yes,No,Yes,No,No
+78, T.Priyanka reddy,28,Yes,No,No,No,No,No,Yes,Yes,"kiwi,apple,Oranges",Yes,4,35mins,3L,Yes,No,Yes,No,No
+79, Q.Ubadur Basha,35,Yes,Yes,No,No,Yes,Yes,No,No,,Yes,3, 40mins,3L,Yes,No,No,Yes,No
+80, S.Fathima,34,No,No,Yes,Yes,No,Yes,No,Yes,Banana,No,,,1.5L,Yes,Yes,No,Yes,No
+81, P.Jyothi,57,Yes,No,Yes,No,No,No,No,Yes,"Apple,Banana",No,,,2L,Yes,No,Yes,Yes,No
+82, L.Samyuktha,29,No,Yes,No,Yes,No,Yes,Yes,Yes,Banana,Yes,4,45mins,3L,Yes,No,No,Yes,No
+83, CH.Aditya,24,Yes,Yes,No,Yes,No,Yes,No,No,,Yes,3,60mins,6L,Yes,No,No,Yes,Yes
+84, P.Shanumuk,28,Yes,No,Yes,No,Yes,No,No,Yes,Banana,No,,,2L,Yes,No,Yes,No,Yes
+85, A.Ramandeep,35,No,No,Yes,No,Yes,No,No,Yes,"Apple,Banana",No,,,2L,No,Yes,Yes,No,No
+86, K.Nagendara,41,No,No,Yes,No,Yes,No,Yes,No,,No,,,2L,Yes,No,Yes,No,Yes
+87,S.Sanchith pol,57,No,No,Yes,No,Yes,No,No,Yes,Banana,No,,,1.5L,Yes,No,Yes,No,Yes
+88, S.gopi Kumar,43,Yes,Yes,No,No,No,No,Yes,Yes,"Apple,Banana",No,,,3.5L,Yes,No,No,Yes,No
+89,  D.Nagalakshmi,61,No,No,Yes,No,No,No,No,Yes,Banana,No,,,3.5L,Yes,No,No,No,Yes
+90,M.Rukmini,40,Yes,No,Yes,No,No,Yes,No,No,,No,,,3L,No,Yes,No,Yes,No
+91,K.SAROJINI,40,NO,YES,YES,NO,YES,YES,NO,YES,"BANANA,PAPAYA",YES,2,30 SEC,2.5 LITRE,YES,NO,NO,YES,YES
+92,K.KEERTHANA,23,YES,YES,YES,NO,YES,YES,NO,YES,"APPLE,MANGO",YES,7,1 HOUR,3.5 LITRE,YES,NO,NO,YES,YES
+93,M.KUMARI,35,NO,YES,YES,NO,NO,YES,NO,YES,GRAPES,NO,0,,1 LITRE,YES,NO,NO,YES,YES
+94,M.SYMMALA,36,NO,YES,YES,NO,NO,YES,NO,YES,"APPLE,MANGO",NO,0,,1.5 LITRE,YES,NO,NO,YES,YES
+95,M.SIRI,19,YES,YES,YES,NO,NO,YES,NO,YES,MANGO,NO,0,,1 LITRE,YES,NO,NO,YES,YES
+96,K.MAYA,20,NO,YES,YES,NO,YES,NO,NO,NO,"APPLE,MANGO",NO,0,,2 LITRE,YES,NO,NO,YES,YES
+97,K.KAVATHA ,25,YES,YES,YES,NO,NO,YES,YES,NO,GRAPES,NO,0,,2.5 LITRE,YES,NO,NO,YES,YES
+98,K.ROSHINI,30,NO,YES,YES,NO ,YES,NO,YES,NO,PINE APPLE,NO,0,,3.5 LITRE,YES,NO,NO,NO,NO
+99,M.VASANTHI,34,YES,YES,YES,YES,NO,YES,NO,NO,KIWI,NO,0,,4 LITRE,YES,NO,NO,NO,YES
+100,M.ANU,35,YES,YES,YES,YES,NO,YES,YES,YES,WATER MELON,NO,0,,1.5 LITRE,YES,NO,NO,NO,NO
+101,M.SOWNDARYA,39,NO,YES,YES,YES,YES,YES,YES,YES,STRAWBERRY,NO,0,,2.5 LITRE,YES,YES,NO,NO,NO
+102,M.LAKSHMI,52,NO,YES,YES,YES,YES,YES,YES,YES,JACK FRUIT,YES,0,,2 LITRE,YES,YES,NO,NO,NO
+103,M.TEJA,36,YES,YES,YES,YES,NO,YES,YES,NO,CHERRY,YES,1,30 SEC,1 LITRE,YES,YES,NO,NO,NO
+104,M.KANAKA,40,YES,YES,YES,NO,YES,YES,YES,NO,PEAR,YES,2,1 HOUR,1.4 LITRE,YES,YES,NO,YES,YES
+105,M.SRIDEVI,41,YES,YES,YES,NO,NO,YES,NO,YES,KIWI,YES,3,1HOUR,2 LITRE,YES,YES,NO,YES,YES
+106,L.LALITHA,45,NO,YES,YES,YES,YES,NO,NO,YES,"APPLE,MANGO",YES,4,30 SEC,3 LITRE,YES,YES,NO,NO,YES
+107,K.MEGHANA SRI,25,YES,YES,YES,YES,YES,NO,YES,NO,LEMON,NO,,,1 LITRE,YES,YES,NO,YES,NO
+108,G.VASANTHI,21,NO,YES,YES,NO,YES,NO,NO,NO,STRAWBERRY,NO,,,2.5 LITRE,YES,YES,NO,NO,NO
+109,K.AAYUSH,23,YES,YES,YES,YES,NO,YES,YES,NO,CHERRY,NO,,,3.5 LITRE,YES,YES,NO,YES,NO
+110,M.DIVYA,25,NO,YES,YES,NO,NO,NO,NO,NO,KIWI,NO,,,1 LITRE,YES,YES,NO,NO,NO
+111,S.SAANVI,29,YES,YES,YES,YES,YES,YES,YES,NO,MANGO,NO,,,2.5 LITRE,YES,NO,NO,YES,NO
+112,H.CHARLOTTE,30,NO,YES,YES,NO,NO,NO,NO,NO,APPLE,NO,,,2 LITRE,YES,NO,NO,NO,YES
+113,E.SOPHIA,25,YES,YES,YES,YES,YES,NO,YES,NO,LEMON,YES,6,10 MIN,1 LITRE,YES,NO,NO,NO,YES
+114,K.ISABELLA,28,YES,YES,YES,NO,YES,YES,NO,YES,MANGO,YES,4,20 MIN,2.5 LITRE,YES,NO,NO,NO,YES
+115,J.ANIKA,24,NO,YES,YES,NO,NO,NO,NO,YES,APPLE,NO,,,1.1 LITRE,YES,NO,NO,NO,YES
+116,L.EVELYN,23,YES,YES,YES,YES,YES,YES,YES,YES,MANGO,YES,6,30 MIN,2.5 LITRE,YES,NO,NO,NO,YES
+117,K.OLIVIA,35,NO,YES,YES,YES,NO,NO,YES,NO,ORANGE,NO,,,2 LITRE,YES,NO,NO,NO,NO
+118,A.AARNA,32,YES,YES,YES,YES,YES,YES,YES,NO,ORANGE,YES,2,40 MIN,2 LITRE,YES,NO,NO,NO,NO
+119,I.ARIA,31,NO,YES,YES,NO ,NO,YES,YES,YES,ORANGE,NO,,,4 LITRE,YES,NO,NO,NO,NO
+120,U.JASMINE,35,YES,YES,YES,YES,YES,YES,YES,YES,ORANGE,YES,3,20 MIN,3.5 LITRE,YES,NO,NO,NO,NO
+121,R.Bhavana,44,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,~,~,2L,YES,NO,NO,YES,YES
+122,Bhavya ,22,NO,YES,YES,NO,YES,YES,NO,NO,NO,YES,7,1H,2.5L,YES,NO,NO,NO,NO
+123,Rohini,18,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,~,~,1.5L,YES,NO,NO,YES,YES
+124,Sanju,18,NO,YES,YES,NO,YES,YES,YES,NO,NO,NO,~,~,2L,YES,NO,NO,NO,NO
+125,Chandini,39,NO,YES,YES,NO,YES,YES,YES,YES,ORANGE,NO,~,~,4L,NO,NO,NO,YES,YES
+126,Rakshitha,22,YES,YES,NO,NO,NO,YES,YES,YES,BANANA,NO,~,~,2L,YES,NO,YES,NO,NO
+127,Chandu,23,NO,YES,YES,NO,YES,YES,YES,NO,NO,YES,7,1H,2L,YES,YES,YES,YES,YES
+128,Nikitha,23,NO,YES,YES,NO,YES,YES,YES,YES,NO,NO,~,~,3L,YES,NO,NO,NO,NO
+129,KEERTHI,22,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,~,~,1L,NO,YES,NO,YES,NO
+130,UDAYA SRI,22,NO,YES,YES,YES,YES,NO,NO,NO,NO,NO,~,~,3L,YES,NO,YES,NO,YES
+131,Sanjana,23,NO,YES,NO,NO,YES,YES,NO,NO,NO,NO,~,~,1L,YES,NO,YES,YES,NO
+132,SREEJA Sri,22,NO,YES,YES,NO,YES,NO,NO,NO,NO,YES,4,30MIN,1L,YES,NO,NO,NO,NO
+133,Mani Sri,22,NO,YES,YES,NO,YES,YES,YES,NO,NO,YES,4,30MIN,2L,YES,YES,NO,NO,NO
+134,Beena,23,NO,YES,YES,NO,YES,YES,YES,NO,NO,NO,~,~,3L,YES,NO,YES,NO,NO
+135,DEEPIKA Reddy,23,NO,YES,YES,NO,YES,YES,YES,NO,NO,NO,~,~,3L,YES,NO,NO,NO,NO
+136,Kiranmayi ,24,NO,YES,YES,NO,YES,NO,NO,NO,NO,NO,~,~,2L,YES,NO,NO,YES,NO
+137,ANJALI Choudhary ,22,NO,YES,YES,YES,YES,YES,YES,NO,NO,NO,~,~,2.5L,YES,NO,NO,NO,NO
+138,Ashu ,22,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,~,~,3L,YES,NO,YES,YES,NO
+139,VIJAYA,23,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,~,~,2L,YES,NO,YES,YES,NO
+140,SOUJI,24,YES,NO,YES,YES,NO,NO,YES,YES,BANANA,NO,~,~,2L,NO,NO,NO,NO,NO
+141,BEGUM,24,NO,YES,YES,NO,YES,NO,NO,NO,NO,NO,~,~,2L,YES,NO,NO,NO,NO
+142,AMMU,23,NO,YES,NO,NO,YES,YES,YES,NO,NO,NO,~,~,2L,YES,NO,NO,NO,NO
+143,Shannu,22,NO,NO,NO,NO,YES,YES,YES,NO,NO,NO,~,~,1L,YES,NO,YES,YES,NO
+144,YASHI,23,NO,YES,YES,NO,NO,NO,NO,YES,GUAVA,YES,3,30MIN,2L,YES,NO,NO,YES,NO
+145,SRAVYANJILI,22,NO,YES,YES,YES,NO,NO,NO,NO,NO,YES,5,30MIN,2L,YES,NO,NO,YES,NO
+146, SARITHA,23,NO,YES,NO,NO,YES,YES,YES,NO,NO,NO,~,~,1L,YES,NO,NO,NO,NO
+147,APARNA ,20,YES,YES,YES,YES,NO,NO,NO,YES,BANANA,YES,7,1H,3L,YES,NO,NO,NO,NO
+148,KHAYTHI,21,YES,YES,YES,YES,YES,NO,NO,NO,NO,YES,5,45MIN,2.5L,NO,NO,NO,NO,NO
+149,BHARGAVI,22,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,~,~,2L,YES,NO,NO,NO,NO
+150,DEEKSHI,22,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,~,~,2.5L,YES,NO,YES,YES,NO
+151,D.NIHARIKA,26,YES,NO,NO,YES,YES,YES,NO,YES,"APPLE,BANANA,GUAVA",NO,~,~,2.5L,YES,NO,YES,YES,NO
+152,A.SANGEETHA,20,NO,YES,YES,YES,YES,YES,YES,NO,NO,YES,4,30MIN,3L,NO,NO,NO,YES,NO
+153,D.SHALINI,19,NO,NO,NO,NO,YES,YES,YES,NO,NO,NO,~,~,3L,NO,NO,NO,NO,NO
+154,B.LAKSHMI,25,YES,YES,YES,YES,YES,YES,YES,YES,"APPLE,BANANA,GUAVA",NO,~,~,5L,NO,NO,NO,NO,YES
+155,S.NIKITHA,19,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,~,~,2L,NO,NO,NO,YES,NO
+156,A.RADHIKA,18,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,~,~,3L,NO,NO,NO,YES,NO
+157,A.ANJALI,19,NO,YES,NO,YES,NO,YES,NO,YES,APPLE,NO,~,~,2L,NO,NO,NO,NO,NO
+158,P.DIVYA KUMARI,23,YES,YES,YES,YES,YES,YES,NO,YES,APPLE,YES,3,30MIN,3L,YES,NO,NO,YES,YES
+159,C.LAKSHMI,24,YES,YES,YES,YES,YES,YES,YES,YES,GUAVA,YES,6,45MN,3L,NO,NO,NO,YES,NO
+160,LELLA AHMAD,21,NO,YES,NO,NO,NO,YES,YES,YES,PAPAYA,YES,5,1H,3L,YES,NO,NO,NO,NO
+161,SOFIYA MALIK,21,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,~,~,2L,YES,NO,YES,YES,NO
+162,P.SITHA,23,NO,NO,NO,NO,NO,YES,NO,YES,GUAVA,NO,~,~,2.5L,YES,NO,YES,YES,NO
+163,G.LAKSHMI,24,YES,YES,YES,YES,YES,YES,YES,YES,APPLE,YES,5,30MIN,3L,NO,YES,NO,YES,NO
+164,CH.HARANI REDDY,22,NO,YES,NO,YES,NO,YES,NO,YES,BANANA,YES,5,45MIN,3L,YES,NO,NO,NO,NO
+165,AISHA KHAN,26,YES,YES,YES,YES,YES,YES,YES,NO,NO,NO,~,~,2L,NO,NO,YES,YES,NO
+166,M.LAVANYA,24,NO,NO,YES,NO,YES,NO,YES,YES,BANANA,YES,3,45MIN,3L,YES,YES,YES,YES,NO
+167,FATHIMA ALI,20,YES,YES,YES,YES,YES,YES,YES,YES,APPLE,NO,~,~,2.5L,NO,YES,NO,YES,NO
+168,P.BAHARATHI,25,YES,NO,YES,NO,YES,NO,YES,NO,NO,NO,~,~,3L,NO,YES,YES,YES,YES
+169,S.KAVYA SHALINI,26,YES,NO,YES,YES,NO,NO,NO,YES,PAPAYA,NO,~,~,2.5L,YES,YES,YES,YES,YES
+170,L.UHA SONTHOSHI,23,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,~,~,3L,NO,NO,NO,NO,NO
+171,G.VIJAYA LAKSHMI,24,YES,YES,YES,YES,NO,YES,NO,YES,APPLE,YES,4,45MIN,2.5L,NO,YES,NO,NO,NO
+172,P.TRIVANI,21,NO,NO,YES,NO,YES,YES,YES,NO,NO,NO,~,~,2.5L,NO,YES,NO,NO,YES
+173,M.MADURI,26,YES,NO,YES,NO,YES,YES,YES,YES,APPLE,YES,4,1H,3L,YES,YES,NO,NO,YES
+174,P.SATHWIKA,20,NO,NO,NO,YES,NO,YES,NO,YES,GUAVA,NO,~,~,2.5L,NO,NO,YES,YES,NO
+175,P.VANI,21,NO,NO,NO,YES,NO,YES,YES,YES,APPLE,YES,3,30MIN,2L,YES,YES,NO,YES,NO
+176,Y.BAVANI,24,NO,YES,NO,YES,NO,YES,YES,NO,NO,NO,~,~,3L,YES,YES,YES,YES,NO
+177,H.PUSHPA,23,YES,YES,NO,YES,NO,YES,YES,NO,NO,NO,~,~,2.5L,YES,YES,YES,YES,NO
+178,H.RADHA REDDY,21,YES,YES,YES,YES,YES,YES,YES,YES,APPLE,YES,2,30MIN,3.5L,YES,NO,YES,NO,YES
+179,T.KALAYANI,20,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,~,~,2.5L,YES,NO,NO,YES,NO
+180,Y.LAKSHMI,20,NO,NO,YES,NO,YES,NO,YES,NO,NO,NO,~,~,3L,NO,NO,YES,YES,NO
